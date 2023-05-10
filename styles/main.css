@@ -1,0 +1,27 @@
+/*hear is the heading*/
+
+p {
+  color: green;
+}
+
+#mydiv {
+  background-color: orange;
+}
+
+.second-div {
+  background-color: blueviolet;
+}
+
+.intro {
+  background-color: pink;
+}
+
+.color-yellow {
+  color: red;
+}
+.beauty {
+  background-color: lawngreen;
+}
+.padding-10 {
+  padding: 10px;
+}
